@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://kn8mb8fg303a"]
+
+[node name="Cenario" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+format = 2
+layer_0/name = "Background"
+layer_0/modulate = Color(0, 0.731649, 0.674469, 1)
